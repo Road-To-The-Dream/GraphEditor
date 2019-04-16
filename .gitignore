@@ -1,0 +1,6 @@
+vendor/
+.idea/
+App/Core/logs/logs.log
+App/favicon.ico
+public/UserImage/
+App/conf/Configuration.php

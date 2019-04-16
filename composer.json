@@ -1,0 +1,20 @@
+{
+    "name": "sergey/practice",
+    "description": "TestSite",
+    "authors": [
+        {
+            "name": "Sergey Sushko",
+            "email": "fhlbc2012@gmail.com"
+        }
+    ],
+
+    "require": {
+        "squizlabs/php_codesniffer": "3.*"
+    },
+
+    "autoload": {
+        "psr-4": {
+            "App\\": "App/"
+        }
+    }
+}
